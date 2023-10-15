@@ -1,0 +1,1 @@
+This projects helps you build a basic and static school webiste with html, css. This project can help you understand on how to deploy the webiste on the same server with springboot handling both the backend and client side.
