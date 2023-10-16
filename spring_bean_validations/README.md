@@ -1,0 +1,1 @@
+This project helps you perform server side field validations using spring bean validations which helps us in storing the right form of data before saving them in database and send the client side with the error messages for the right data to be entered.
